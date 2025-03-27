@@ -69,13 +69,12 @@ Aquí se incluye la **presentación general** del proyecto (por ejemplo, el arch
 
 ## Soporte y Contacto
 
-- **Canal Principal**: [Issues de GitHub](https://github.com/usuario/hospital-inteligente/issues) para reportar errores, proponer mejoras o hacer preguntas técnicas.
-- **Slack/Teams**: (Pendiente de creación) Para comunicación más fluida con el equipo.
-- **Email**: hospital.ada.lovelace@ejemplo.org (correo de contacto provisional).
-
+-  [Linkedin](https://www.linkedin.com/in/pdro-ruiz/)
 
 ## Licencia
 
 Este proyecto se distribuye bajo la licencia que figura en el archivo [`LICENSE`](LICENSE). Asegúrate de revisarla antes de utilizar o contribuir al repositorio.
+
+---
 
 ¡Gracias por tu interés en el **Hospital Inteligente Ada Lovelace**! Juntos, construiremos el futuro de la gestión hospitalaria.
