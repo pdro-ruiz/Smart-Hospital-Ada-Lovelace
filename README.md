@@ -71,10 +71,4 @@ Aquí se incluye la **presentación general** del proyecto (por ejemplo, el arch
 
 -  [Linkedin](https://www.linkedin.com/in/pdro-ruiz/)
 
-## Licencia
-
-Este proyecto se distribuye bajo la licencia que figura en el archivo [`LICENSE`](LICENSE). Asegúrate de revisarla antes de utilizar o contribuir al repositorio.
-
----
-
 ¡Gracias por tu interés en el **Hospital Inteligente Ada Lovelace**! Juntos, construiremos el futuro de la gestión hospitalaria.
