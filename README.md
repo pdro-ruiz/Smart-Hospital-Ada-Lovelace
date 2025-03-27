@@ -30,7 +30,9 @@ En la captura de pantalla se aprecia la siguiente estructura principal:
 │   ├─ capa_6
 │   └─ capa_7
 ├─ Presentación
-│   └─ Speech
+│   ├─ Speech
+│   ├─ Presentación ejecutiva
+│   └─ Presentation Smart Hospital
 ├─ LICENSE
 └─ README.md
 ```
@@ -52,7 +54,7 @@ En esta carpeta se encuentran los **módulos** (capas) que conforman la arquitec
 - **Capa 7 – Integración y Gobierno**  
   Gobierno de datos, bus de servicios, API Management, Master Data Management y monitorización de integraciones.
 
-Cada subcarpeta contiene la documentación, los diagramas, scripts y/o prototipos de código necesarios para implementar la funcionalidad descrita.
+Cada subcarpeta contiene la documentación y los diagramas necesarios para implementar la funcionalidad descrita.
 
 ### 2. `Presentación`
 Aquí se incluye la **presentación general** del proyecto (por ejemplo, el archivo de diapositivas o documento PDF) con la **visión estratégica**, objetivos y plan de implantación. Es ideal para entender el enfoque global de la arquitectura y los casos de uso principales.
